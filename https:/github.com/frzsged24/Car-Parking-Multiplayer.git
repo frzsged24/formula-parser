@@ -1,0 +1,13 @@
+echo "# Car-Parking-Multiplayer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/frzsged24/Car-Parking-Multiplayer.git
+git push -u origin main
+git remote add origin https://github.com/frzsged24/Car-Parking-Multiplayer.git
+git branch -M main
+git push -u origin main
+groups.getCallbackConfirmationCode
+groups
+access_token
